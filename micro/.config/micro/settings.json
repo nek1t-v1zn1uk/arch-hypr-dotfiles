@@ -1,0 +1,6 @@
+{
+    "colorscheme": "simple",
+    "*.conf": {
+    	"filetype": "ini"
+    }
+}
